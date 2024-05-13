@@ -16,5 +16,29 @@ The reason it is called "Furniture Reformer" because it aims to give two interpr
 
 My inspiration for "Furniture Reformer" stemmed from a confluence of factors. Environmental concerns about furniture waste played a role, pushing me to find a solution that diverted items from landfills and promote sustainability. Additionally, I recognized a need within my community for resources related to affordable furniture access and responsible disposal options. "Furniture Reformer" became a way to bridge this gap and empower users. Finally, the project tapped into my entreneurial spirit, allowing me to explore the potential of generative AI in tackling real-world problems and creating a practical and innovative solution.
 
+Our inspiration for "Furniture Reformer" stemmed from a confluence of factors. On a personal level, the environmental impact of improper furniture disposal troubled us. We envisioned a solution that diverted the furniture from landfills and promoted a more sustainable approach to furniture usage. Furthermore, within our community, we recognized a clear need for resources. People struggled to find affordable furniture options or lacked guidance on responsible disposal. "Furniture Reformer" emerged as a way to bridge this gap and empower uses by connecting them with the resources they needed. Finally, the project ignited our entrepreneurial spirit. "Furniture Reformer" allowed us to explore the potential of generative AI in tackling real-world problems. By integrating generative AI into the website, we created a platform that could not only connect users with information, but also utilize AI's capabilities to provide personalized recommedations and solutions.
+
 ## Our Solution
 
+Our project, "Furniture Reformer," tackles the issue of improper furniture disposal and limited access to affordable furniture options within our community. It leverages generative AI to create a user-friendly website the empowers individuals to make informed decisions regarding their furniture. Here is a breakdwon of our solution's functionalities:
+
+1. Finding Affordable Furniture & Responsible Disposal:
+   - Users can upload a picutre of their furniture
+   - The website, powerered by generative AI and computer vision, analyzes the image to identify the furniture type and condition
+   - Based on this analysis, the website provides users with various options:
+     - Affordable Furniture Acquisition: Users are directed to local resources where they can find similar furniture for free or at discounted prices
+     - Responsible Disposal: The website connects users with donation centers, recycling facilities, or reputable junk removal services based on their location and furniture type
+     - Selling Furniture: Users can be directed to online marketplaces or local classifieds sections suitable for selling their furniture
+
+2. Extending Furniture Lifespan:
+   - The website utilizes generative AI to provide users with:
+     - Maintenance Tips: Based on the identified furniture type and potential wear and tear in the image, users receive personalized suggestions for proper maintenance practices
+     - DIY Repair Guides: Step-by-step instructions are offered for common furniture repairs
+     - Refurbishing Inspiration: The website might showcase creative ways to refurbish furniture (using Dall-E?)
+
+3. The Power of Generative AI:
+   - Throughout the user experience, generative AI plays a crucial role. It analyzes user input (furniture image), generates appropriate responses and recommendations, and personalizes the experience based on furniture type and condition
+   - Additionally, features like prompt engineering can be employed to tailor the information presented to the user. For instance, the website could adapt its language based on whether the user is looking to dispose of, sell, or restore their furniture
+
+Overall Impact:
+"Furniture Reformer" aims to be a one-stop shop for all furniture-related needs. By promoting responsible disposal, encouraging furniture reuse, and extending furniture lifespans, the project contributes to a more sustainable approach to furniture consumption within the community. Additionally, it empowers users by providing them with the resources and knowledge they need to make informed decisions about their furniture.
