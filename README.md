@@ -14,8 +14,6 @@ The reason it is called "Furniture Reformer" because it aims to give two interpr
 
 ## Why Furniture Reformer?
 
-My inspiration for "Furniture Reformer" stemmed from a confluence of factors. Environmental concerns about furniture waste played a role, pushing me to find a solution that diverted items from landfills and promote sustainability. Additionally, I recognized a need within my community for resources related to affordable furniture access and responsible disposal options. "Furniture Reformer" became a way to bridge this gap and empower users. Finally, the project tapped into my entreneurial spirit, allowing me to explore the potential of generative AI in tackling real-world problems and creating a practical and innovative solution.
-
 Our inspiration for "Furniture Reformer" stemmed from a confluence of factors. On a personal level, the environmental impact of improper furniture disposal troubled us. We envisioned a solution that diverted the furniture from landfills and promoted a more sustainable approach to furniture usage. Furthermore, within our community, we recognized a clear need for resources. People struggled to find affordable furniture options or lacked guidance on responsible disposal. "Furniture Reformer" emerged as a way to bridge this gap and empower uses by connecting them with the resources they needed. Finally, the project ignited our entrepreneurial spirit. "Furniture Reformer" allowed us to explore the potential of generative AI in tackling real-world problems. By integrating generative AI into the website, we created a platform that could not only connect users with information, but also utilize AI's capabilities to provide personalized recommedations and solutions.
 
 ## Our Solution
