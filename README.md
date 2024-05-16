@@ -1,4 +1,4 @@
-![Alt Text](/furniture_reformer.png)
+![Test](/furniture_reformer.png)
 
 ## Overview
 
