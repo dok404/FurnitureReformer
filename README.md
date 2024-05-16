@@ -1,4 +1,4 @@
-![Test](/furniture_reformer.png)
+<img src = "/furniture_reformer.png" width = "50">
 
 ## Overview
 
