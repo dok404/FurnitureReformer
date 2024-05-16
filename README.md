@@ -23,21 +23,25 @@ Our project, "Furniture Reformer," tackles the issue of improper furniture dispo
 Here is a breakdwon of our solution's functionalities:
 
 1. Finding Affordable Furniture & Responsible Disposal:
-   - Users can upload a picutre of their furniture
-   - The website, powerered by generative AI and computer vision, analyzes the image to identify the furniture type and condition
-   - Based on this analysis, the website provides users with various options:
+   - Users can select the category, price range, condition, seller rating, delivery options, material, and location
+   - Based on this criteria, the website provides users with various information:
+     - Description of the local resources where they can find furniture that they are looking for using text generation
+     - A drop-down list with hyperlinks to each of the local resource's website
+     - A map pinpointing where the local resources are
      - Affordable Furniture Acquisition: Users are directed to local resources where they can find similar furniture for free or at discounted prices
      - Responsible Disposal: The website connects users with donation centers, recycling facilities, or reputable junk removal services based on their location and furniture type
      - Selling Furniture: Users can be directed to online marketplaces or local classifieds sections suitable for selling their furniture
 
-2. Extending Furniture Lifespan:
+2. Responsible DisposalExtending Furniture Lifespan:
    - The website utilizes generative AI to provide users with:
      - Maintenance Tips: Based on the identified furniture type and potential wear and tear in the image, users receive personalized suggestions for proper maintenance practices
      - DIY Repair Guides: Step-by-step instructions are offered for common furniture repairs
      - Refurbishing Inspiration: The website might showcase creative ways to refurbish furniture (using Dall-E?)
 
-3. The Power of Generative AI:
+3. Extending Furniture Lifespan:
+   - Users can upload a picture of their furniture
    - Throughout the user experience, generative AI plays a crucial role. It analyzes user input (furniture image), generates appropriate responses and recommendations, and personalizes the experience based on furniture type and condition
+   - The website, powerered by generative AI and computer vision, analyzes the image to identify the furniture type and condition
    - Additionally, features like prompt engineering can be employed to tailor the information presented to the user. For instance, the website could adapt its language based on whether the user is looking to dispose of, sell, or restore their furniture
 
 Overall Impact:
