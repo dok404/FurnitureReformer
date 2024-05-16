@@ -44,7 +44,6 @@ Here is a breakdown of our solution's functionalities:
 3. Extending Furniture Lifespan:
    - Users can upload a picture of their furniture
    - Based on computer vision used to analyze the furniture's condtion, the website use text generation to provide maintenance guides, repair guides, or dismantling guides
-   - Throughout the user experience, generative AI plays a crucial role. It analyzes user input (furniture image), generates appropriate responses and recommendations, and personalizes the experience based on furniture type and condition
 
 "Furniture Reformer" aims to be a one-stop shop for all furniture-related needs. By promoting responsible disposal, encouraging furniture reuse, and extending furniture lifespans, the project contributes to a more sustainable approach to furniture consumption within the community. Additionally, it empowers users by providing them with the resources and knowledge they need to make informed decisions about their furniture.
 
