@@ -8,9 +8,9 @@ A website using generative AI to help users find affordable furniture, dispose o
 
 The reason it is called "Furniture Reformer" because it aims to tackle two problems regarding how people perceive furniture:
 
-1. Reforming Furniture: This interpretation emphasizes the project's focus on extending the lifespan of existing furniture. It suggests the website provides users with guides for repairs, refurbishing, and maintenance, essentially "reforming" their furniture to give it a second life.
+1. Reforming Furniture: This interpretation emphasizes the project's focus on extending the lifespan of existing furniture, providing users with guides for repairs, refurbishing, and maintenance, essentially "reforming" their furniture to give it a second life.
 
-2. Reforming the Furniture Industry: This interpretation takes a broader view. It suggests the project aims to reform how people interact with furniture, promoting responsible disposal, encouraging reuse and affordability, and potentially creating a more sustainable furniture ecosystem.
+2. Reforming the Furniture Industry: This interpretation takes a broader view, aiming to reform how people interact with furniture, promoting responsible disposal, encouraging reuse and affordability, and potentially creating a more sustainable furniture ecosystem.
 
 ## Why Furniture Reformer?
 
