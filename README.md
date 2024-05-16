@@ -1,4 +1,4 @@
-![GitHub Logo](/furniture_reformer.png)
+![Alt Text](/furniture_reformer.png)
 
 ## Overview
 
