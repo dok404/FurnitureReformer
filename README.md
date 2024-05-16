@@ -39,12 +39,17 @@ Here is a breakdwon of our solution's functionalities:
        - A text generation to describe the local resource where they can donate their furniture
        - A drop-down list with hyperlinks to each of the local resource's website
        - A map pinpointing where the local resources are
+     - If "Sell" is selected:
+       - A text generation to describe the online and local resources where the they can sell their furniture
+     - If "Dispose" is selected:
+       - Provide the URL and phone number of their city to schedule a pickup
      - Maintenance Tips: Based on the identified furniture type and potential wear and tear in the image, users receive personalized suggestions for proper maintenance practices
      - DIY Repair Guides: Step-by-step instructions are offered for common furniture repairs
      - Refurbishing Inspiration: The website might showcase creative ways to refurbish furniture (using Dall-E?)
 
 3. Extending Furniture Lifespan:
    - Users can upload a picture of their furniture
+   - Based on computer vision used to analyze the furniture's condtion, the website use text generation to provide maintenance guides, repair guides, or dismantling guides
    - Throughout the user experience, generative AI plays a crucial role. It analyzes user input (furniture image), generates appropriate responses and recommendations, and personalizes the experience based on furniture type and condition
    - The website, powerered by generative AI and computer vision, analyzes the image to identify the furniture type and condition
    - Additionally, features like prompt engineering can be employed to tailor the information presented to the user. For instance, the website could adapt its language based on whether the user is looking to dispose of, sell, or restore their furniture
