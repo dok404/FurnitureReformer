@@ -49,6 +49,8 @@ Here is a breakdown of our solution's functionalities:
        - Provide the URL to recycling facilities or reputable junk removal services in their city and phone number of their city to schedule a pickup
 
 3. Extending Furniture Lifespan:
+   - Image Recognition Integration: My focus here was on integrating computer vision. The website analyzes uploaded furniture images to determine its condition.
+   - Personalized Maintenance Solutions: Working with the team, I ensured the website uses AI-powered text generation with prompt engineering to recommend maintenance guides, repair instructions, or dismantling guides based on the identified furniture condition. This personalized approach empowers users to extend their furniture's lifespan
    - Users can upload a picture of their furniture
    - Based on computer vision used to analyze the furniture's condition, the website use text generation to provide maintenance guides, repair guides, or dismantling guides
 
