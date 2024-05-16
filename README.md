@@ -6,7 +6,7 @@ A website using generative AI to help users find affordable furniture, dispose o
 
 ## Furniture Reformer: What is it?
 
-The reason it is called "Furniture Reformer" because it aims to give two interpretations for the name:
+The reason it is called "Furniture Reformer" because it aims to solve two problems regarding how people perceive furniture:
 
 1. Reforming Furniture: This interpretation emphasizes the project's focus on extending the lifespan of existing furniture. It suggests the website provides uses with resources for repairs, refurbishing, and maintenance, essentially "reforming" their furniture to give it a second life.
 
