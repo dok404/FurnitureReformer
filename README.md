@@ -1,4 +1,4 @@
-<img src = "/furniture_reformer.png" width = "50">
+<img src = "/furniture_reformer.png" width = "500">
 
 ## Overview
 
