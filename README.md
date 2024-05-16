@@ -40,9 +40,9 @@ Here is a breakdwon of our solution's functionalities:
        - A drop-down list with hyperlinks to each of the local resource's website
        - A map pinpointing where the local resources are
      - If "Sell" is selected:
-       - A text generation to describe the online and local resources where the they can sell their furniture
+       - A text generation to describe the online marketplaces or local classifieds sections suitable for selling their furniture
      - If "Dispose" is selected:
-       - Provide the URL and phone number of their city to schedule a pickup
+       - Provide the URL to recycling facilities or reputable junk removal services in their city and phone number of their city to schedule a pickup
      - Maintenance Tips: Based on the identified furniture type and potential wear and tear in the image, users receive personalized suggestions for proper maintenance practices
      - DIY Repair Guides: Step-by-step instructions are offered for common furniture repairs
      - Refurbishing Inspiration: The website might showcase creative ways to refurbish furniture (using Dall-E?)
