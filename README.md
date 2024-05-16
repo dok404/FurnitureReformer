@@ -47,3 +47,6 @@ Here is a breakdwon of our solution's functionalities:
    - Throughout the user experience, generative AI plays a crucial role. It analyzes user input (furniture image), generates appropriate responses and recommendations, and personalizes the experience based on furniture type and condition
 
 "Furniture Reformer" aims to be a one-stop shop for all furniture-related needs. By promoting responsible disposal, encouraging furniture reuse, and extending furniture lifespans, the project contributes to a more sustainable approach to furniture consumption within the community. Additionally, it empowers users by providing them with the resources and knowledge they need to make informed decisions about their furniture.
+
+## See Our Demo Video
+https://drive.google.com/file/d/1ihyt27Eem3sYxd4LTL0EpiS7tUExRkSM/view?usp=sharing
