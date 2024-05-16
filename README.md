@@ -20,7 +20,7 @@ Our inspiration for "Furniture Reformer" stemmed from a confluence of factors. O
 
 Our project, "Furniture Reformer," tackles the issue of improper furniture disposal and limited access to affordable furniture options within our community. It leverages generative AI to create a user-friendly website the empowers individuals to make informed decisions regarding their furniture.
 
-Here is a breakdwon of our solution's functionalities:
+Here is a breakdown of our solution's functionalities:
 
 1. Finding Affordable Furniture & Responsible Disposal:
    - Users can select category, price range, condition, seller rating, delivery options, material, and location
