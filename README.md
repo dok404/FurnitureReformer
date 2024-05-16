@@ -26,33 +26,16 @@ Here is a breakdown of our solution's functionalities:
    - User Input Flexibility: I added the inclusion of detailed user input options like category, price range, condition, and location. This allows for a highly personalized search experience.
    - Generative AI Integration: Working closely with the team, I integrated generative AI to create user-friendly responses. The website utilizes text generation and prompt engineering to desribe the local resources based on user selections, providing clear and concise information.
    - Interactive Interface: To further enhance user experience, I implemented a drop-down list with hyperlinks to resource websites and an interactive map pinpointing locations. This is one-stop-shop approach streamlines the process.
-   - Users can select category, price range, condition, seller rating, delivery options, material, and location
-   - Based on the user's criteria, the website provides user with:
-     - A text generation to describe the local resources where they can find furniture that they are looking for
-     - A drop-down list with hyperlinks to each of the local resource's website
-     - A map pinpointing where the local resources are
 
 2. Responsible Disposal:
    - Dynamic Information Delivery: I worked within the team to ensure the website dynamically delivers appropriate information based on the user's disposal method selection (donate, sell, or dispose).
    - AI-powered Recommendations: For donation scenarios, generative AI again plays a role through text generation and prompt engineering describing the relevant resources and providing links and location information.
    - Marketplace Guidance: For those wanting to sell, the website displays suggestions for suitable online marketplaces or classifieds through text generation and prompt engineering.
    - Disposal Services Integration: If disposal is chosen, I contributed to integrating a service directory featuring reputable junk removal services and recycling facilities, complete with phone numbers for scheduling pickups.
-   - Users can select category, method, size, material, if pickup is required, and location
-   - Based on the user's criteria, the website provides user with different information depending on disposal method:
-     - If "Donate" is selected:
-       - A text generation to describe the local resource where they can donate their furniture
-       - A drop-down list with hyperlinks to each of the local resource's website
-       - A map pinpointing where the local resources are
-     - If "Sell" is selected:
-       - A text generation to describe the online marketplaces or local classifieds sections suitable for selling their furniture
-     - If "Dispose" is selected:
-       - Provide the URL to recycling facilities or reputable junk removal services in their city and phone number of their city to schedule a pickup
 
 3. Extending Furniture Lifespan:
    - Image Recognition Integration: My focus here was on integrating computer vision. The website analyzes uploaded furniture images to determine its condition.
    - Personalized Maintenance Solutions: Working with the team, I ensured the website uses AI-powered text generation with prompt engineering to recommend maintenance guides, repair instructions, or dismantling guides based on the identified furniture condition. This personalized approach empowers users to extend their furniture's lifespan
-   - Users can upload a picture of their furniture
-   - Based on computer vision used to analyze the furniture's condition, the website use text generation to provide maintenance guides, repair guides, or dismantling guides
 
 "Furniture Reformer" aims to be a one-stop shop for all furniture-related needs. By promoting responsible disposal, encouraging furniture reuse, and extending furniture lifespans, the project contributes to a more sustainable approach to furniture consumption within the community. Additionally, it empowers users by providing them with the resources and knowledge they need to make informed decisions about their furniture.
 
