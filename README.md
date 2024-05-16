@@ -28,9 +28,6 @@ Here is a breakdwon of our solution's functionalities:
      - A text generation to describe the local resources where they can find furniture that they are looking for
      - A drop-down list with hyperlinks to each of the local resource's website
      - A map pinpointing where the local resources are
-     - Affordable Furniture Acquisition: Users are directed to local resources where they can find similar furniture for free or at discounted prices
-     - Responsible Disposal: The website connects users with donation centers, recycling facilities, or reputable junk removal services based on their location and furniture type
-     - Selling Furniture: Users can be directed to online marketplaces or local classifieds sections suitable for selling their furniture
 
 2. Responsible Disposal:
    - Users can select category, method, size, material, if pickup is required, and location
@@ -43,16 +40,11 @@ Here is a breakdwon of our solution's functionalities:
        - A text generation to describe the online marketplaces or local classifieds sections suitable for selling their furniture
      - If "Dispose" is selected:
        - Provide the URL to recycling facilities or reputable junk removal services in their city and phone number of their city to schedule a pickup
-     - Maintenance Tips: Based on the identified furniture type and potential wear and tear in the image, users receive personalized suggestions for proper maintenance practices
-     - DIY Repair Guides: Step-by-step instructions are offered for common furniture repairs
-     - Refurbishing Inspiration: The website might showcase creative ways to refurbish furniture (using Dall-E?)
 
 3. Extending Furniture Lifespan:
    - Users can upload a picture of their furniture
    - Based on computer vision used to analyze the furniture's condtion, the website use text generation to provide maintenance guides, repair guides, or dismantling guides
    - Throughout the user experience, generative AI plays a crucial role. It analyzes user input (furniture image), generates appropriate responses and recommendations, and personalizes the experience based on furniture type and condition
-   - The website, powerered by generative AI and computer vision, analyzes the image to identify the furniture type and condition
-   - Additionally, features like prompt engineering can be employed to tailor the information presented to the user. For instance, the website could adapt its language based on whether the user is looking to dispose of, sell, or restore their furniture
 
 Overall Impact:
 "Furniture Reformer" aims to be a one-stop shop for all furniture-related needs. By promoting responsible disposal, encouraging furniture reuse, and extending furniture lifespans, the project contributes to a more sustainable approach to furniture consumption within the community. Additionally, it empowers users by providing them with the resources and knowledge they need to make informed decisions about their furniture.
