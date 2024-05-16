@@ -23,17 +23,22 @@ Our project, "Furniture Reformer," tackles the issue of improper furniture dispo
 Here is a breakdwon of our solution's functionalities:
 
 1. Finding Affordable Furniture & Responsible Disposal:
-   - Users can select the category, price range, condition, seller rating, delivery options, material, and location
-   - Based on this criteria, the website provides users with various information:
-     - Description of the local resources where they can find furniture that they are looking for using text generation
+   - Users can select category, price range, condition, seller rating, delivery options, material, and location
+   - Based on the user's criteria, the website provides user with:
+     - A text generation to describe the local resources where they can find furniture that they are looking for
      - A drop-down list with hyperlinks to each of the local resource's website
      - A map pinpointing where the local resources are
      - Affordable Furniture Acquisition: Users are directed to local resources where they can find similar furniture for free or at discounted prices
      - Responsible Disposal: The website connects users with donation centers, recycling facilities, or reputable junk removal services based on their location and furniture type
      - Selling Furniture: Users can be directed to online marketplaces or local classifieds sections suitable for selling their furniture
 
-2. Responsible DisposalExtending Furniture Lifespan:
-   - The website utilizes generative AI to provide users with:
+2. Responsible Disposal:
+   - Users can select category, method, size, material, if pickup is required, and location
+   - Based on the user's criteria, the website provides user with different information depending on disposal method:
+     - If "Donate" is selected:
+       - A text generation to describe the local resource where they can donate their furniture
+       - A drop-down list with hyperlinks to each of the local resource's website
+       - A map pinpointing where the local resources are
      - Maintenance Tips: Based on the identified furniture type and potential wear and tear in the image, users receive personalized suggestions for proper maintenance practices
      - DIY Repair Guides: Step-by-step instructions are offered for common furniture repairs
      - Refurbishing Inspiration: The website might showcase creative ways to refurbish furniture (using Dall-E?)
