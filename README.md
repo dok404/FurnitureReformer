@@ -22,7 +22,10 @@ Our project, "Furniture Reformer," tackles the issue of improper furniture dispo
 
 Here is a breakdown of our solution's functionalities:
 
-1. Finding Affordable Furniture & Responsible Disposal:
+1. Finding Affordable Furniture:
+   - User Input Flexibility: I added the inclusion of detailed user input options like category, price range, condition, and location. This allows for a highly personalized search experience.
+   - Generative AI Integration: Working closely with the team, I integrated generative AI to create user-friendly responses. The website utilizes text generation and prompt engineering to desribe the local resources based on user selections, providing clear and concise information.
+   - Interactive Interface: To further enhance user experience, I implemented a drop-down list with hyperlinks to resource websites and an interactive map pinpointing locations. This is one-stop-shop approach streamlines the process.
    - Users can select category, price range, condition, seller rating, delivery options, material, and location
    - Based on the user's criteria, the website provides user with:
      - A text generation to describe the local resources where they can find furniture that they are looking for
