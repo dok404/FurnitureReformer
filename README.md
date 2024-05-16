@@ -1,4 +1,4 @@
-# Furniture Reformer
+![GitHub Logo](/furniture_reformer.png)
 
 ## Overview
 
