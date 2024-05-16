@@ -33,6 +33,10 @@ Here is a breakdown of our solution's functionalities:
      - A map pinpointing where the local resources are
 
 2. Responsible Disposal:
+   - Dynamic Information Delivery: I worked within the team to ensure the website dynamically delivers appropriate information based on the user's disposal method selection (donate, sell, or dispose).
+   - AI-powered Recommendations: For donation scenarios, generative AI again plays a role through text generation and prompt engineering describing the relevant resources and providing links and location information.
+   - Marketplace Guidance: For those wanting to sell, the website displays suggestions for suitable online marketplaces or classifieds through text generation and prompt engineering.
+   - Disposal Services Integration: If disposal is chosen, I contributed to integrating a service directory featuring reputable junk removal services and recycling facilities, complete with phone numbers for scheduling pickups.
    - Users can select category, method, size, material, if pickup is required, and location
    - Based on the user's criteria, the website provides user with different information depending on disposal method:
      - If "Donate" is selected:
